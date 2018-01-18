@@ -1,1 +1,0 @@
-Generic PR template
